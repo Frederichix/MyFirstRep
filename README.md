@@ -8,4 +8,5 @@ Para rodar esse projeto na sua máquina, favor digite
 node app.js
 ```
 
+Adicionando mais algumas funcionalidades ao commit.
 :)
