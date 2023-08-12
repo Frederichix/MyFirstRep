@@ -2,16 +2,10 @@
 
 > Status do projeto: Em desenvolvimento
 
-Para rodar esse projeto na sua máquina, favor digite
+Para rodar esse projeto, favor digite
 
 ```
 node app.js
 ```
-Cxdad
-D
-A
-B
-B
-
 Adicionando mais algumas funcionalidades ao commit.
-:)
+TUDO AQUI AINDA ESTÁ EM ETAPA DE TESTES!
